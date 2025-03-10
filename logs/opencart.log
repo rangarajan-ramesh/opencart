@@ -654,3 +654,22 @@
 19:28:58.704 [main] INFO  testCases.TC001 - Test Has Passed
 19:29:12.934 [main] INFO  testCases.TC002 - Test has Started
 19:29:14.559 [main] INFO  testCases.TC002 - Test has procced through Login Page
+15:58:00.549 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\testng.xml"
+15:58:00.966 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\testng.xml
+
+15:59:03.278 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\testng.xml"
+15:59:03.592 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\testng.xml
+
+15:59:10.030 [main] INFO  testCases.TC001 - Test has Started
+15:59:10.684 [main] INFO  testCases.TC001 - Test has opened Register Page
+15:59:12.053 [main] INFO  testCases.TC001 - Test Has Passed
+15:59:14.707 [main] INFO  testCases.TC002 - Test has Started
+15:59:15.870 [main] INFO  testCases.TC002 - Test has procced through Login Page
+15:59:53.514 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\testng.xml"
+15:59:57.343 [main] INFO  testCases.TC001 - Test has Started
+15:59:58.013 [main] INFO  testCases.TC001 - Test has opened Register Page
+15:59:59.432 [main] INFO  testCases.TC001 - Test Has Passed
+16:00:02.670 [main] INFO  testCases.TC002 - Test has Started
+16:00:04.765 [main] INFO  testCases.TC002 - Test has procced through Login Page

@@ -1,5 +1,12 @@
 C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\pageObjects\BaseClass.java
 C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\pageObjects\HomePage.java
+C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\pageObjects\Login.java
+C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\pageObjects\MyAccount.java
 C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\pageObjects\RegisterPage.java
-C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\testCases\BaseTest.java
+C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\testBase\BaseTest.java
 C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\testCases\TC001.java
+C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\testCases\TC002.java
+C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\testCases\TC003_Login_DDT.java
+C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\utilities\DataProviders.java
+C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\utilities\ExcelUtililty.java
+C:\Users\IND-Rangarajan\eclipse-workspace_new\OpenCart_1\src\test\java\utilities\ExtentReportManager.java
